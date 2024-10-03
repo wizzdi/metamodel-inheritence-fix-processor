@@ -40,7 +40,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <spring-boot.version>3.0.0</spring-boot.version>
 
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <eclipselink.version>4.0.0</eclipselink.version>
         <maven-core.version>3.8.6</maven-core.version>
         <maven-plugin-annotations.version>3.6.4</maven-plugin-annotations.version>
